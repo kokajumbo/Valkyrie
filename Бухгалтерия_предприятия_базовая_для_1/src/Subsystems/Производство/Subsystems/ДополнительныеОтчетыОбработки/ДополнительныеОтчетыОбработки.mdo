@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="73ca5f52-63bc-414a-a103-4b0fef2d9a5a">
+  <name>ДополнительныеОтчетыОбработки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительные отчеты обработки</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonCommand.ДополнительныеОбработкиПроизводство</content>
+  <content>CommonCommand.ДополнительныеОтчетыПроизводство</content>
+  <parentSubsystem>Subsystem.Производство</parentSubsystem>
+</mdclass:Subsystem>

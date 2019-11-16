@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="281e2eba-24e0-43b5-8d7f-251dcff433a0">
+  <producedTypes>
+    <objectType typeId="fe4648d3-12b9-4bff-927b-8f4ec6e0ae1c" valueTypeId="2d260d8f-4d31-4e30-a90f-7e169b910887"/>
+    <managerType typeId="e8f837e9-e9f2-4656-91b5-75cb284bbdb5" valueTypeId="6b9ca816-bfd5-436b-983d-fb73f5f2d9e9"/>
+  </producedTypes>
+  <name>РегламентированноеУведомлениеУ_ИО</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регламентированное уведомление У-ИО</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>CommonForm.ИнформацияОНевозможностиОткрытияУведомления</defaultForm>
+  <forms uuid="2802f19c-1aad-4e38-b441-1128621afe0a">
+    <name>Форма2015_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма2015 1</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="2c125afa-76b4-4bc9-87a5-4c85a6014a87">
+    <name>Форма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сведения о контролирующих лицах международной компании</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="50204508-64dc-4728-b23d-f8addc1ec49e">
+    <name>ФормаВыборНомерУчастника</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбор номера участника</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="eac383e0-39df-44ad-85c8-a70ce3ab4616">
+    <name>Форма2015_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма2015 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="5e35b5eb-c916-44c8-b105-d572a1550126">
+    <name>ПараметрыФорма2015_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Параметры форма2015 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="c5350105-b6fa-42b0-a854-a4179c08f93a">
+    <name>Печать_MXL_Форма2015_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомлении об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="ff5091bc-618e-4fb7-a96c-af5e58992dc0">
+    <name>СхемаВыгрузкиФорма2015_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки форма2015 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="98a7d728-8b04-4d21-8d42-3bad97d46b27">
+    <name>TIFF_2015_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>TIFF 2015 1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="aecdfcc2-86b8-437e-a67a-7ba26a165234">
+    <name>СпискиВыбора2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки выбора2019 1</value>
+    </synonym>
+  </templates>
+  <templates uuid="282e8af3-9437-4d24-b998-48706cdaac45">
+    <name>Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="b7779511-c6d5-421c-a798-bca26391b301">
+    <name>ЛистСведФЛ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="264046a6-90d1-41e9-9376-f5acc6beea35">
+    <name>ЛистА</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="994994c9-9eb8-495b-9747-8d98fffd546f">
+    <name>ЛистБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="0532ce67-4009-46d4-9b37-29e784687906">
+    <name>ЛистВ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="a22828d2-5ee7-43ee-afa5-cb9930146619">
+    <name>ЛистГ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="9bece91d-cb42-4536-8275-0b1002965321">
+    <name>Печать_Форма2019_1_Титульная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="93d28113-d144-4eaf-b629-a6234dacaa50">
+    <name>Печать_Форма2019_1_ЛистСведФЛ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="5a1f5f8e-539b-4baa-b813-230a56e8d150">
+    <name>Печать_Форма2019_1_ЛистА</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="2007fb0f-8064-4100-839a-f6521ae74f1e">
+    <name>Печать_Форма2019_1_ЛистБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="d0445ebd-77e4-4440-be4a-b61e9f9c2dd6">
+    <name>Печать_Форма2019_1_ЛистВ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="ded196a8-17d3-46bf-b2d3-5464a05214c5">
+    <name>Печать_Форма2019_1_ЛистГ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Уведомление об участии в иностранных организациях</value>
+    </synonym>
+  </templates>
+  <templates uuid="bdad3a49-d61a-4921-9365-07452f1956e8">
+    <name>СхемаВыгрузкиФорма2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки</value>
+    </synonym>
+  </templates>
+  <templates uuid="b026702c-16e3-48d7-929e-3ebc26afb9b6">
+    <name>Форматы2019_1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форматы</value>
+    </synonym>
+  </templates>
+</mdclass:Report>

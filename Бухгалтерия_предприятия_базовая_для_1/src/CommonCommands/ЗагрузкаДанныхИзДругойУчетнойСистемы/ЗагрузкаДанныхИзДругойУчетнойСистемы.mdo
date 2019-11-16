@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b042d877-d774-454f-955d-cff237c15585">
+  <name>ЗагрузкаДанныхИзДругойУчетнойСистемы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка данных из другой учетной системы</value>
+  </synonym>
+  <group>CommandGroup.НачальныеОстатки</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+  <shortcut></shortcut>
+</mdclass:CommonCommand>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="91e1aa98-8555-4106-bd3a-9f08c44ae08b">
+  <name>ПрочиеОтчеты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Прочие отчеты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Report.КнигаУчетаДоходовИРасходовПредпринимателя</content>
+  <content>Report.ЭкспрессПроверкаВеденияУчета</content>
+  <content>Report.ТоварныйОтчетТОРГ29</content>
+  <content>Report.ЖурналУчетаРозничнойПродажиАлкогольнойПродукции</content>
+  <content>Report.КнигаУчетаДоходовИРасходов</content>
+  <content>Report.КнигаУчетаДоходовПатент</content>
+  <content>Report.ОстаткиНДСПоАвансамПокупателей</content>
+  <content>Report.КассоваяКнига</content>
+  <content>Report.ЖурналРегистрацииКассовыхДокументов</content>
+  <content>Report.ОтчетПоДвижениюДенежныхДокументов</content>
+  <content>Report.РеестрДокументов</content>
+  <content>Report.ВедомостьАмортизацииОСБухгалтерскийУчет</content>
+  <content>Report.ИнвентарнаяКнигаОС</content>
+  <content>Report.РегистрИнформацииОбОбъектеОС</content>
+  <content>Report.РегистрНалоговогоУчетаФинРезультатовОтРеализацииАмортизируемогоИмущества</content>
+  <content>Report.ОценкаРискаНалоговойПроверки</content>
+  <content>Report.АнализРасходовНаОплатуТруда</content>
+  <content>Report.АнализСостоянияНалоговогоУчетаПоНалогуНаПрибыль</content>
+  <content>Report.АнализСостоянияНалоговогоУчетаПоУСН</content>
+  <content>Report.КалендарьПроверокКонтролирующимиОрганами</content>
+  <content>Report.РасшифровкаПлатежейВБюджет</content>
+  <content>Report.РасшифровкаСтатистики</content>
+  <content>Report.РегистрыНалоговогоУчета</content>
+  <content>Report.ФинансовыйАнализ</content>
+  <parentSubsystem>Subsystem.БухгалтерияПредприятияПодсистемы.Subsystem.БухгалтерскиеОтчеты</parentSubsystem>
+</mdclass:Subsystem>

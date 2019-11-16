@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dfc6c579-da80-4e6b-b690-7b23bd08428d">
+  <name>Реклама1СНКО</name>
+  <synonym>
+    <key>ru</key>
+    <value>1С:Бухгалтерия некоммерческой организации</value>
+  </synonym>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+</mdclass:CommonForm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e74d0691-4a70-4478-95cd-a8adc69094b0">
+  <name>РегиональныеСтавкиНалогов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Региональные ставки налогов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Constant.АдресСервисаРегиональныеСтавкиНалогов</content>
+  <content>Constant.ИспользоватьСервисРегиональныеСтавкиНалогов</content>
+  <content>FunctionalOption.ИспользоватьСервисРегиональныеСтавкиНалогов</content>
+  <content>CommonModule.РегиональныеСтавкиНалогов</content>
+  <content>CommonForm.ПараметрыПодключенияКСервисуРегиональныеСтавкиНалогов</content>
+  <parentSubsystem>Subsystem.БухгалтерияПредприятияПодсистемы.Subsystem.ИнтеграцияСВнешнимиСистемами</parentSubsystem>
+</mdclass:Subsystem>

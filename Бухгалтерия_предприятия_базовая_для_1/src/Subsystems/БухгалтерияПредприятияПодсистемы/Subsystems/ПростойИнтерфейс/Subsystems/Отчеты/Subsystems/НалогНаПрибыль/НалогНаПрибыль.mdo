@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a639e682-c53e-4cd4-b17e-2ecf56ff0d0f">
+  <name>НалогНаПрибыль</name>
+  <synonym>
+    <key>ru</key>
+    <value>Налог на прибыль</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <parentSubsystem>Subsystem.БухгалтерияПредприятияПодсистемы.Subsystem.ПростойИнтерфейс.Subsystem.Отчеты</parentSubsystem>
+</mdclass:Subsystem>
